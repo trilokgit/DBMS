@@ -1,0 +1,84 @@
+
+
+.mycard{
+  margin-top: 30px;
+}
+.auth-card{
+  padding: 20px;
+  text-align: center;
+  max-width: 400px;
+  margin: 10px auto;
+}
+
+.input-field input[type=text]:focus {
+  border-bottom: 1px solid rgb(8, 93, 252) !important;
+  box-shadow: 0 1px 0 0 rgb(8, 93, 252)  !important;
+}
+.input-field input[type=password]:focus {
+  border-bottom: 1px solid rgb(8, 93, 252) !important;
+  box-shadow: 0 1px 0 0 rgb(8, 93, 252)  !important;
+}
+
+.gallery{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.item{
+  width: 30%;
+}
+
+.home-card{
+  max-width: max-content;
+  height: max-content;
+  margin: 20px auto;
+  padding: 40px;
+  border:1px solid black;
+  
+}
+.collection-item{
+  width: 100%;
+}
+
+
+
+#toast-container{
+  top:30px !important;
+  right: 20px !important;
+  left: auto !important;
+}
+
+
+.material-icons:hover{
+  cursor: pointer;
+}
+
+.au{
+  width: 490px;
+  margin-left: 490px;
+  padding: 25px;
+  border: 1px solid black;
+}
+
+.cards{
+  
+  margin-left: 100px;
+  margin-bottom: 20px;
+
+}
+.na{
+  text-align: center;
+  color:rgb(4, 0, 255);
+  
+}
+
+.bto{
+  /* padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 0px;
+  padding-bottom: 0px; */
+  margin-left: 395px;
+  
+   
+}
